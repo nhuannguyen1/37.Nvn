@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
-Name: ppyan
-Version: 0.0.7
-Summary: nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+Name: tpyan
+Version: 0.0.0
+Summary: python for excel
 Home-page: UNKNOWN
 Author: Nguyen Van Nhuan
 Author-email: <nhuannv.vs@gmail.com>
@@ -10,7 +10,7 @@ Description:
         introduce about Nhuan
          
         
-Keywords: python,video,stream,video stream,camera stream,sockets
+Keywords: python,python excel,pyan,pyexcel
 Platform: UNKNOWN
 Classifier: Development Status :: 1 - Planning
 Classifier: Intended Audience :: Developers
